@@ -24,6 +24,12 @@ body {
   width: 50px;
 }
 
+.container {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
 @media(max-width: 600px) {
     .orange, .yellow {
         display: none;
